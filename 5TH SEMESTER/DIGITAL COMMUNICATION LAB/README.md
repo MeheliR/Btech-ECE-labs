@@ -7,9 +7,9 @@ This repository consists of all the laboratory work which has been done in the t
 3rd Year - 5th and 6th semester
 
 
-## Second Year
+## Third Year
 
-#### 4th Sem
+#### 5th Sem
 - [EC-592 DIGITAL COMMUNICATION Lab](https://github.com/MeheliR/Btech-ECE-labs/tree/main/5TH%20SEMESTER/DIGITAL%20COMMUNICATION%20LAB)
 ### Experiments
 
