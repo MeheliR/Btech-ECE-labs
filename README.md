@@ -50,6 +50,7 @@ This repository consists of all the laboratory work which has been done in the t
 - MATLAB
 - Assembly language
 - Python
+- Multisim
 
 
 ## Usage
